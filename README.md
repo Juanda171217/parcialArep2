@@ -74,3 +74,9 @@ Por ultimo se muestra el funcionamiento de la aplicacion desplegada en AWS
 
 [![p16.png](https://i.postimg.cc/Z5XHypBw/p16.png)](https://postimg.cc/cvMwpKc3)
 
+## Video
+
+https://user-images.githubusercontent.com/98103493/229228774-2969e792-0daa-41a3-aa02-1254df27cac6.mp4
+
+
+
